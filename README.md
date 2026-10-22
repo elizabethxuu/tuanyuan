@@ -4,6 +4,9 @@
 
 *The moon is always whole. We only experience it in phases.*
 
+<p align="center"><a href="https://tuanyuan-moon.vercel.app"><img src="images/demo.webp" width="720" alt="A run-through of Tuányuán, sped up: the lotus opening, finding a birth moon, the four questions, and opening the mooncake box"></a></p>
+<p align="center"><a href="https://tuanyuan-moon.vercel.app">Try it live</a></p>
+
 Tuányuán is a small interactive film for the Mid-Autumn Festival. You find the moon you were born under, sit with four questions as it fills with light, and at the end open a lacquer box to find a mooncake pressed with your moon, to keep or to send.
 
 团圆 (tuányuán) means both *roundness* and *reunion*. The festival's full moon is the shape of a family gathered together, and the experience is built around that idea: wholeness is not something you become, it is something you were all along.
