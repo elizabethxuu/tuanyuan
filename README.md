@@ -1,3 +1,5 @@
+<p align="center"><img src="images/logo.png" width="180" alt="Tuányuán logo: a mooncake pressed with the twelve phases of the moon around a full moon"></p>
+
 # Tuányuán / 团圆
 
 *The moon is always whole. We only experience it in phases.*
@@ -26,6 +28,10 @@ Everything except the closing reflection runs in the visitor's browser.
 - **The reflection.** The visitor's answers, with the phase and sign already calculated, are sent to `api/reflect.js`, which asks Anthropic's Claude API for a short reflection in the visitor's own words. The AI never calculates anything astronomical. Without an API key, or if the request fails, the page shows the visitor's own words instead.
 - **The visuals.** The lotus river, the moons, the room, the silk, the box, the mooncakes and the leaves are all drawn in code on canvas, with a WebGL pass for the water. There are no image files.
 - **Nothing is stored.** No accounts, cookies, analytics or browser storage. "Keep this moon" saves an image to the visitor's device.
+
+## The mark
+
+A mooncake seen from above, just out of the mould. The twelve phases of the moon are pressed into the rim and the full moon sits at the centre. Each phase keeps its full outline, so every moon is whole even when dark.
 
 ## Project structure
 
